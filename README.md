@@ -35,14 +35,6 @@ Desktop tools and libraries for geometry processing, map interaction, CAD data w
 | Mapping & projections | SharpMap, ProjNet |
 | Machine learning | scikit-learn, Random Forest, MLP |
 
-## Education & Research
-
-- **PhD in Geomatics Engineering** — Hacettepe University
-- **MSc in Real Estate Development and Management** — Ankara University
-- **BSc in Geomatics Engineering** — Yıldız Technical University
-
-My doctoral research focused on developing a GIS-based multi-hazard assessment approach for natural gas pipeline safety in Türkiye. I also teach remote sensing, connecting its foundations with modern geospatial technologies and engineering applications.
-
 ## Collaboration
 
 I welcome collaboration on open-source GIS tools, geospatial application development, CAD/GIS interoperability and applied remote sensing research.
